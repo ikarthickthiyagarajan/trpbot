@@ -1,0 +1,11 @@
+/* Import the existing styles from the build folder */
+@import url('../build/static/css/main.css');
+
+/* Add any additional styles specific to the chatbot */
+.chatbot-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Add more custom styles as needed */
